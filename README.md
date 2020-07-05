@@ -4,3 +4,4 @@ spring学习记录，不同内容对应不同分支。
 
 分支及对应关系：
  1. bean_initAndDestroy：Spring Bean生命周期——初始化和销毁
+ 2. bean_name：Bean（同名）覆盖问题。注意用的是SpringBoot。
